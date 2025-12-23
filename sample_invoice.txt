@@ -1,0 +1,48 @@
+INVOICE / BILLING STATEMENT
+
+================================================================================
+                              INVOICE #INV-2024-001
+================================================================================
+
+Bill To:
+--------
+Name: Ekta
+Email: robert.williams@gmail.com
+Phone: 555-345-6789
+Address: hyderabad
+ZIP: 02101
+
+
+Organization: Williams & Associates
+
+Invoice Date: 12/01/2024
+Due Date: 12/31/2024
+Date: December 1, 2024
+
+Service Details:
+----------------
+Description: Professional Consulting Services
+Amount: $3,500.00
+Total Amount: $3,500.00
+Price: $3,500.00
+Cost: $3,500.00
+
+Payment Information:
+-------------------
+Payment Amount: $3,500.00
+Total Due: $3,500.00
+
+Contact Information:
+--------------------
+For payment inquiries, please contact:
+Email: billing@company.com
+Phone: 1-800-555-0200
+Website: https://www.company.com
+
+Customer ID: CUST-789456
+Invoice ID: INV-2024-001
+
+Thank you for your business!
+
+================================================================================
+
